@@ -1,0 +1,24 @@
+{
+  "name": "generator-gulp-preprocessors",
+  "version": "1.0.0",
+  "description": "Generator for html layout, where using stylys, jade ang gulp",
+  "main": "README.md",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ololo@github.com"
+  },
+  "keywords": [
+    "stylys",
+    "jade",
+    "gulp",
+    "bower"
+  ],
+  "author": "IamEmpty",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.20.1"
+  }
+}
