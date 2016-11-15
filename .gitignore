@@ -8,3 +8,5 @@ dist
 # Folder for gulp gh-pages
 .publish
 
+# WebStorm
+.idea/

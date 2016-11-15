@@ -1,24 +1,33 @@
 {
   "name": "generator-gulp-preprocessors",
   "version": "1.0.0",
-  "description": "Generator for html layout, where using stylys, jade ang gulp",
-  "main": "README.md",
+  "description": "Generator for html layout, where using stylus, pug ang gulp",
+  "main": "app/index.js",
   "scripts": {
-    "test": "gulp"
+    "test": "gulp test"
   },
-  "repository": {
-    "type": "git",
-    "url": "ololo@github.com"
-  },
+  "files": [
+    "app",
+    "router"
+  ],
   "keywords": [
-    "stylys",
-    "jade",
+    "yeoman-generator",
+    "stylus",
+    "pug",
     "gulp",
     "bower"
   ],
-  "author": "IamEmpty",
-  "license": "ISC",
+  "author": "pure-js",
+  "license": "MIT",
   "dependencies": {
-    "yeoman-generator": "^0.20.1"
-  }
+    "yeoman-generator": "^0.24.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pure-js/generator-gulp-preprocessors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pure-js/generator-gulp-preprocessors/issues"
+  },
+  "homepage": "https://github.com/pure-js/generator-gulp-preprocessors#readme"
 }
