@@ -1,1 +1,2 @@
-# Yoman project
+# Yeoman generator
+For usual tasks
